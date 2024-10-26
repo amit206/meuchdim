@@ -1,0 +1,7 @@
+{
+  "name": "meuchdim",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
